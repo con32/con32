@@ -1,4 +1,1 @@
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<img src="https://raw.githubusercontent.com/zaftzaft/terminal-anime/master/demo.gif">
